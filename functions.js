@@ -1,5 +1,5 @@
-function hiName() {
-    var name = "Lisette";
+function hiName(name) {
     console.log("Hi", name);
 }
 
+hiName("Lisette");
